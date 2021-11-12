@@ -15,7 +15,3 @@ f64-4f39-a4d9-30e01afff08f.png">
 <img width="1162" alt="Screenshot 2021-10-29 at 6 24 59 PM" src="https://user-images.githubusercontent.com/88930678/139439484-b11db59d-86db-4171-a63e-f8e2592ac515.png">
 <img width="1162" alt="Screenshot 2021-10-29 at 6 25 06 PM" src="https://user-images.githubusercontent.com/88930678/139439505-32c3ead5-ae6f-4fb9-9654-1948c2b815fa.png">
 <img width="1162" alt="Screenshot 2021-10-29 at 6 25 13 PM" src="https://user-images.githubusercontent.com/88930678/139439516-f823b3cf-fa1e-45ef-8a15-ef33063ebe30.png">
-
-THIS IS THE ERROR I FACED WITH HOSTING MY APP:
-
-<img width="1418" alt="Screenshot 2021-10-29 at 6 25 33 PM" src="https://user-images.githubusercontent.com/88930678/139439561-f46df812-ef24-4a71-8711-7c3bcf085c7b.png">
