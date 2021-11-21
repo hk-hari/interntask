@@ -7,8 +7,8 @@ REGISTERING USER:
 
 USER LOGIN:
 
-<img width="1162" alt="Screenshot 2021-10-29 at 6 23 44 PM" src="https://user-images.githubusercontent.com/88930678/139439383-a149e326-3<img width="1162" alt="Screenshot 2021-10-29 at 6 19 05 PM" src="https://user-images.githubusercontent.com/88930678/139439466-128a2529-0957-433a-bf2c-43c961c962a6.png">
-f64-4f39-a4d9-30e01afff08f.png">
+<img width="1162" alt="Screenshot 2021-10-29 at 6 23 44 PM" src="https://user-images.githubusercontent.com/88930678/139439383-a149e326-343c961c962a6.png">
+<img width="1162" alt="Screenshot 2021-10-29 at 6 19 05 PM" src="https://user-images.githubusercontent.com/88930678/139439466-128a2529-0957-433a-bf2c-43c961c962a6.png">
 
 <img width="1162" alt="Screenshot 2021-10-29 at 6 24 16 PM" src="https://user-images.githubusercontent.com/88930678/139439429-49db25f5-8a47-430b-8ca3-0dc3308180d8.png">
 <img width="1162" alt="Screenshot 2021-10-29 at 6 24 47 PM" src="https://user-images.githubusercontent.com/88930678/139439479-0859e5aa-4c16-40c4-afc6-b3878e5516d0.png">
